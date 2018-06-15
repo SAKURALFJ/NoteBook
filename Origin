@@ -1,0 +1,3 @@
+# about area calculation #
+# 2018/06/16 #
+计算封闭曲线所围面积时，绘制完图像后，使用analysis里的mathematics，再进入polygon里计算area就ok。
